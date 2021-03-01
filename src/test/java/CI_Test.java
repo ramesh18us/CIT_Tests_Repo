@@ -70,7 +70,7 @@ public class CI_Test {
 
 
         @Test
-        public void mks_fde_esttwo() {
+        public void mks_fde_testtwo() {
 
             randomNumber = ran.nextInt(range) + 1;
             passfail.dummycode(randomNumber);
@@ -90,6 +90,12 @@ public class CI_Test {
             passfail.dummycode(randomNumber);
         }
 
+        @Test
+        public void mks_fde_testfive() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
         @Test
         public void mks_lit_testone() {
 

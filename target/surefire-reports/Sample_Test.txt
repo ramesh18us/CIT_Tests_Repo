@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: Sample_Test
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.093 sec <<< FAILURE!
-MFE_GFS_Test(Sample_Test)  Time elapsed: 0.007 sec  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.079 sec <<< FAILURE!
+MFE_GFS_Test(Sample_Test)  Time elapsed: 0.011 sec  <<< FAILURE!
 java.lang.AssertionError: 
 	at org.junit.Assert.fail(Assert.java:91)
 	at org.junit.Assert.assertTrue(Assert.java:43)

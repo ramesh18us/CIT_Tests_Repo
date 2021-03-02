@@ -62,6 +62,29 @@ public class CI_Test {
         }
 
         @Test
+        public void mfe_sct_testone() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
+
+
+        @Test
+        public void mfe_sct_testtwo() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
+
+        @Test
+        public void mfe_sct_testthree() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
+
+
+    @Test
         public void mks_fde_testone() {
 
             randomNumber = ran.nextInt(range) + 1;

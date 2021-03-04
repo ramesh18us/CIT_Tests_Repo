@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class CI_Test {
         Random ran = new Random();
-        int range = 10;
+        int range = 9;
         int randomNumber;
         int number;
 

@@ -132,6 +132,20 @@ public class CI_Test {
             randomNumber = ran.nextInt(range) + 1;
             passfail.dummycode(randomNumber);
         }
+        
+        @Test
+        public void mks_cdi_testone() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
+
+        @Test
+        public void mks_cdi_testtwo() {
+
+            randomNumber = ran.nextInt(range) + 1;
+            passfail.dummycode(randomNumber);
+        }
 
         @Test
         public void gtw_ord_testone() {

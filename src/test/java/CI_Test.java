@@ -2,10 +2,10 @@ import org.junit.Test;
 
 import java.util.Random;
 
-
+//commit 1
 public class CI_Test {
         Random ran = new Random();
-        int range = 10;
+        int range = 9;
         int randomNumber;
         int number;
 

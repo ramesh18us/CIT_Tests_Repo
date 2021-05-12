@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import java.util.Random;
 
-//commit 12
+//commit 123
 public class CI_Test {
         Random ran = new Random();
         int range = 9;
